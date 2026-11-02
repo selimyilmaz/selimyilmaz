@@ -63,10 +63,10 @@
 ---
 
 ### 🛠️ Teknoloji & Yetkinlikler
-__Web & Backend:__ PHP 8.2+ (Vanilla & OOP) MySQL RESTful API .NET 8 WebRTC Node.js JWT WordPress
-__Mobil & Araç:__ Flutter Dart Kotlin Native Android Auto Android TV Swift Riverpod Hive SQLite
-__Frontend & UI__: HTML5 CSS3 / Tailwind JavaScript (ES6+) Responsive Web HUD & Glassmorphism UI
-__DevOps & Altyapı:__ Git GitHub Actions (CI/CD) Docker Linux Self-Hosted TURN
+__Web & Backend:__ PHP 8.2+ (Vanilla & OOP) MySQL RESTful API .NET 8 WebRTC Node.js JWT WordPress.
+__Mobil & Araç:__ Flutter Dart Kotlin Native Android Auto Android TV Swift Riverpod Hive SQLite.
+__Frontend & UI__: HTML5 CSS3 / Tailwind JavaScript (ES6+) Responsive Web HUD & Glassmorphism UI.
+__DevOps & Altyapı:__ Git GitHub Actions (CI/CD) Docker Linux Self-Hosted TURN.
 
 
 ---
