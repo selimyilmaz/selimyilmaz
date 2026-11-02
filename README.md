@@ -63,3 +63,11 @@
 ---
 
 ### 🛠️ Teknoloji & Yetkinlikler
+Web & Backend : PHP 8.2+ (Vanilla & OOP), MySQL, RESTful API, .NET 8, WebRTC, Node.js, JWT, WordPress Mobil & Araç : Flutter, Dart, Kotlin Native, Android Auto, Android TV, Swift, Riverpod, Hive, SQLite Frontend & UI : HTML5, CSS3/Tailwind, JavaScript (ES6+), Responsive Design, UI/UX Glassmorphism DevOps & Araç : Git, GitHub Actions (CI/CD), Docker, Linux, Self-Hosted TURN
+
+
+---
+
+<p align="center">
+  © 2026 <strong>Selim YILMAZ</strong> — Detaylı portfolyo ve canlı demolar için <a href="https://selimyilmaz.github.io">selimyilmaz.github.io</a>
+</p>
